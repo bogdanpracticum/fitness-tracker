@@ -1,6 +1,8 @@
 # Модуль фитнес-трекера
 
-## Программный модуль фитнес-трекера, который обрабатывает данные для трёх видов тренировок: бега, спортивной ходьбы и плавания.
+## Описание:
+
+Программный модуль фитнес-трекера, который обрабатывает данные для трёх видов тренировок: бега, спортивной ходьбы и плавания.
 
 Этот модуль выполняет следующие функции:
 
@@ -15,3 +17,26 @@
 дистанция, которую преодолел пользователь, в километрах;
 средняя скорость на дистанции, в км/ч;
 расход энергии, в килокалориях.
+
+### Технологии:
+Python 3.7
+
+## Запуск проекта:
+Клонировать репозиторий и перейти в директорию проекта:
+git clone https://github.com/AleksNovo/praktikum-fitness-tracker.git
+cd praktikum-fitness-tracker
+
+## Ввести команды:
+git clone https://github.com/AleksNovo/praktikum-fitness-tracker.git
+cd praktikum-fitness-tracker
+
+## Cоздать и активировать виртуальное окружение:
+python -m venv venv
+source venv/Scripts/activate
+
+## Установить зависимости из файла requirements.txt:
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+## Запустить проект:
+python homework.py
