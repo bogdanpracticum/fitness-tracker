@@ -27,7 +27,7 @@ git clone https://github.com/AleksNovo/praktikum-fitness-tracker.git
 cd praktikum-fitness-tracker
 
 ## Ввести команды:
-git clone https://github.com/AleksNovo/praktikum-fitness-tracker.git
+git clone https://github.com/bogdanpracticum/praktikum-fitness-tracker.git
 cd praktikum-fitness-tracker
 
 ## Cоздать и активировать виртуальное окружение:
