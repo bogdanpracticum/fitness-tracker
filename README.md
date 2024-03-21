@@ -23,17 +23,17 @@
 Python 3.7
 
 ## Запуск проекта:
-Клонировать репозиторий и перейти в директорию проекта:
+Клонировать репозиторий и перейти в директорию проекта:  
 git clone https://github.com/bogdanpracticum/fitness-tracker.git;  
 cd fitness-tracker
 
-## Cоздать и активировать виртуальное окружение:
+## Cоздать и активировать виртуальное окружение:  
 python -m venv venv;  
 source venv/Scripts/activate
 
-## Установить зависимости из файла requirements.txt:
+## Установить зависимости из файла requirements.txt:  
 python -m pip install --upgrade pip;  
 pip install -r requirements.txt
 
-## Запустить проект:
+## Запустить проект:  
 python homework.py
