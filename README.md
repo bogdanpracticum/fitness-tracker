@@ -23,10 +23,6 @@ Python 3.7
 
 ## Запуск проекта:
 Клонировать репозиторий и перейти в директорию проекта:
-git clone https://github.com/AleksNovo/praktikum-fitness-tracker.git
-cd praktikum-fitness-tracker
-
-## Ввести команды:
 git clone https://github.com/bogdanpracticum/praktikum-fitness-tracker.git
 cd praktikum-fitness-tracker
 
