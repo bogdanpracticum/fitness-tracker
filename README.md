@@ -23,8 +23,8 @@ Python 3.7
 
 ## Запуск проекта:
 Клонировать репозиторий и перейти в директорию проекта:
-git clone https://github.com/bogdanpracticum/praktikum-fitness-tracker.git
-cd praktikum-fitness-tracker
+git clone https://github.com/bogdanpracticum/fitness-tracker.git
+cd fitness-tracker
 
 ## Cоздать и активировать виртуальное окружение:
 python -m venv venv
